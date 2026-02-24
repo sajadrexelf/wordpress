@@ -1,0 +1,5 @@
+{
+  "name": "WP Plugin AI Builder",
+  "description": "An AI-powered IDE for building standard WordPress plugins with support for Gemini, OpenAI, OpenRouter, and Ollama.",
+  "requestFramePermissions": []
+}
